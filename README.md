@@ -1,6 +1,6 @@
 # Disable Pointers #
 
-A WordPress plugin to disable the admin pointers.
+A WordPress plugin to disable the pointers (tooltips) shown on admin screens.
 
  * **Contributors:** lumpysimon
  * **Tags:** admin, pointers, tooltips, disable
