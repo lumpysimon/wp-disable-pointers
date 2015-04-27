@@ -27,6 +27,7 @@ Yes.
 
 = 1.0 (27th April 2015)
 * Use remove_action instead of directly removing script/style
+* Bump compatibility to 4.2.1
 
 = 0.2 (29th May 2014) =
 * Change plugin page from Lumpy Lemon to GitHub
