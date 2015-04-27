@@ -5,7 +5,7 @@ A WordPress plugin to disable the pointers (tooltips) shown on admin screens.
  * **Contributors:** lumpysimon
  * **Tags:** admin, pointers, tooltips, disable
  * **Requires at least:** 3.3
- * **Tested up to:** 3.9.1
+ * **Tested up to:** 4.2.1
  * **Stable tag:** trunk
  * **License:** GPL v2 or later
 
